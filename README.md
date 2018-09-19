@@ -4,7 +4,7 @@ Record learnings on different programming languages and purposes
 
 ## BigData
 
-- Exercises done in MapReduce and Spark to analyze large datasets through distribuetd computing
+- Exercises done in MapReduce and Spark to analyze large datasets in a distributed way
 
 ## Python learning
 
@@ -16,7 +16,7 @@ Record learnings on different programming languages and purposes
 
 ## Java
 - Exercises 
-- A program to book appointments based on different types
+- A program to book appointments based on different types [[Book Appt](https://github.com/jchen0529/Programming/tree/master/Java/Appointment%20making)]
 
 ## SQL exercises
 

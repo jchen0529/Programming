@@ -46,13 +46,11 @@ Selected SQL exercises I've completed for homeworks and online sql practices, so
 
 ### SQLite
 
-[SQLite](https://www.sqlite.org/): good for working on your own projects as SQLite doesn't require running a server and it creates a database in a single, portable file locally on your computer.
-
-[Intro to SQL with SQLite](https://github.com/tthibo/SQL-Tutorial)
-
 [Databases with Python and Pandas](https://www.dataquest.io/blog/python-pandas-databases/): from Data Quest.  Examples of using a SQLite database with Python and pandas too.
 
 [Software Carpentry Databases and SQL](http://swcarpentry.github.io/sql-novice-survey/): introductory workshop using SQLite
+
+[SQLite](https://www.sqlite.org/): good for working on your own projects as SQLite doesn't require running a server and it creates a database in a single, portable file locally on your computer.
 
 ### Reference:
 [Northwestern MSiA SQL Workshop](https://github.com/nuitrcs/databases_workshop/tree/master/sql)

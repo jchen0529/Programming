@@ -1,6 +1,6 @@
 # Programming
 
-Record learnings on different programming languages and purposes
+Record learnings on different programming languages and sorting algorithms
 
 ## BigData
 
